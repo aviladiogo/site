@@ -11,6 +11,7 @@ html{
     scroll-behavior: smooth;
 }
 .avatar {
+    width: 450px;
     border-radius: 50%;
 } 
 /* custom scroll bar */
@@ -73,7 +74,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: #a1bc61;
+    color: #FA4922;
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -90,7 +91,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: #a1bc61;
+    background: #FA4922;
 }
 .navbar .max-width{
     display: flex;
@@ -119,7 +120,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: #a1bc61;
+    color: #FA4922;
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -136,7 +137,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: #a1bc61;
+    background: #FA4922;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -166,7 +167,7 @@ section .title::after{
     display: flex;
     background: url("images/banner.jpg") no-repeat center;
     height: 100vh;
-    color: #a1bc61;
+    color: #FA4922;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
@@ -192,23 +193,23 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: #a1bc61;
+    color: #FA4922;
     font-weight: 500;
 }
 .home .home-content a{
     display: inline-block;
-    background: #a1bc61;
+    background: #FA4922;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid #a1bc61;
+    border: 2px solid #FA4922;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: #a1bc61;
+    color: #FA4922;
     background: none;
 }
 
@@ -235,25 +236,25 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: #a1bc61;
+    color: #FA4922;
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
-    background: #a1bc61;
+    background: #FA4922;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid #a1bc61;
+    border: 2px solid #FA4922;
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: #a1bc61;
+    color: #FA4922;
     background: none;
 }
 
@@ -277,18 +278,18 @@ section .title::after{
 }
 .skills .skills-content .left a{
     display: inline-block;
-    background: #a1bc61;
+    background: #FA4922;
     color: #fff;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid #a1bc61;
+    border: 2px solid #FA4922;
     transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover{
-    color: #a1bc61;
+    color: #FA4922;
     background: none;
 }
 .skills .skills-content .right .bars{
@@ -316,7 +317,7 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: #a1bc61;
+    background: #FA4922;
 }
 .skills-content .right .html::before{
     width: 90%;
@@ -365,7 +366,7 @@ section .title::after{
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: #a1bc61;
+    color: #FA4922;
 }
 .contact .contact-content .info .head{
     font-weight: 500;
@@ -409,12 +410,12 @@ section .title::after{
   border-radius: 6px;
   cursor: pointer;
   flex-wrap: nowrap;
-  background: #a1bc61;
-  border: 2px solid #a1bc61;
+  background: #FA4922;
+  border: 2px solid #FA4922;
   transition: all 0.3s ease;
 }
 .right form .button-area button:hover{
-  color: #a1bc61;
+  color: #FA4922;
   background: none;
 }
 
